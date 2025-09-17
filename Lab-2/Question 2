@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="device-width=device-width,initial-scale1.0">
+        <title>My Favourite Website</title>
+
+    </head>
+    <body>
+       <img src="https://images.pexels.com/photos/1054655/pexels-photo-1054655.jpeg?cs=srgb&dl=pexels-hsapir-1054655.jpg&fm=jpg" alt="Elephant">
+       <p>Elephants are the largest land mammals, known for their long trunks, large ears, and massive bodies, inhabiting Africa and Asia. They use their powerful trunks for various tasks, including picking up food, bathing, and drinking water, while their large ears help them stay cool in hot climates. </p>
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYRMpPg_5huy_IV6oKevofHk7PakYmoLGpJZLDai_nxmuqq-WY&s" alt="fish">
+       <p>Fish are aquatic, vertebrates (animals with backbones) that breathe with gills, are mostly covered in scales, and use fins to move. There is immense diversity within this group, with species living in every aquatic environment, from freshwater rivers to deep oceans, and exhibiting a wide range of sizes and adaptations for survival, such as bioluminescent lures for deep-sea hunting.  </p>
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2RgoNrHq5hpbqCfDLHT40jaHr65jZK9ciKA&s" alt="nature">
+       <p>Nature is a breathtaking symphony of life and landscapes, encompassing everything from the lush, green forests to the vast, blue oceans, and the majestic, snow-capped mountains. It is the cradle of all life, providing us with the air we breathe, the water we drink, and the food we eat. The delicate balance of ecosystems, the vibrant colors of flowers, and the complex interactions of diverse species showcase the sheer magnificence and intricate beauty of the natural world. </p>
+       
+    </body>
+    <html>
